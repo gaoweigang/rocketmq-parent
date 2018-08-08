@@ -1,4 +1,4 @@
-package com.gwg.hello;
+package com.gwg.hello.server;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

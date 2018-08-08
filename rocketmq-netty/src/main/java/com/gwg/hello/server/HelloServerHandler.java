@@ -1,4 +1,4 @@
-package com.gwg.hello;
+package com.gwg.hello.server;
 
 import java.net.InetAddress;
 
