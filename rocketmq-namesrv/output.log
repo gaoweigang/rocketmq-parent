@@ -1,0 +1,72 @@
+[INFO] 2018-08-10 14:04:36.207 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡接口地址：127.0.0.1 
+[INFO] 2018-08-10 14:04:36.260 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡接口地址：0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:04:36.260 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡接口地址：fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:04:36.260 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡接口地址：fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡接口地址：fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡接口地址：fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡接口地址：fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡接口地址：10.5.37.63 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡接口地址：fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:04:36.261 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：192.168.137.1 
+[INFO] 2018-08-10 14:04:36.262 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：10.5.41.101 
+[INFO] 2018-08-10 14:04:36.262 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 
+[INFO] 2018-08-10 14:06:58.995 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡接口地址：Software Loopback Interface 1, 127.0.0.1 
+[INFO] 2018-08-10 14:06:59.002 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡接口地址：Software Loopback Interface 1, 0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:06:59.002 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡接口地址：Realtek PCIe GBE Family Controller, fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡接口地址：Microsoft Wi-Fi Direct Virtual Adapter #4, fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡接口地址：Bluetooth Device (Personal Area Network), fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡接口地址：Microsoft Wi-Fi Direct Virtual Adapter #5, fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡接口地址：Sangfor SSL VPN CS Support System VNIC, fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡接口地址：Realtek RTL8822BE 802.11ac PCIe Adapter, 10.5.37.63 
+[INFO] 2018-08-10 14:06:59.003 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡接口地址：Realtek RTL8822BE 802.11ac PCIe Adapter, fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:06:59.004 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：VMware Virtual Ethernet Adapter for VMnet8, 192.168.137.1 
+[INFO] 2018-08-10 14:06:59.004 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：VMware Virtual Ethernet Adapter for VMnet8, 10.5.41.101 
+[INFO] 2018-08-10 14:06:59.004 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡接口地址：VMware Virtual Ethernet Adapter for VMnet8, fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 
+[INFO] 2018-08-10 14:17:59.639 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：127.0.0.1 
+[INFO] 2018-08-10 14:17:59.645 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:17:59.645 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡展示名称：Realtek PCIe GBE Family Controller, 网卡接口地址：fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:17:59.646 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #4, 网卡接口地址：fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:17:59.646 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡展示名称：Bluetooth Device (Personal Area Network), 网卡接口地址：fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:17:59.646 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #5, 网卡接口地址：fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:17:59.646 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡展示名称：Sangfor SSL VPN CS Support System VNIC, 网卡接口地址：fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:17:59.647 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：10.5.37.63 
+[INFO] 2018-08-10 14:17:59.647 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:17:59.647 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：192.168.137.1 
+[INFO] 2018-08-10 14:17:59.647 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：10.5.41.101 
+[INFO] 2018-08-10 14:17:59.647 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 
+[INFO] 2018-08-10 14:19:02.893 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：127.0.0.1 
+[INFO] 2018-08-10 14:19:02.899 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:19:02.899 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡展示名称：Realtek PCIe GBE Family Controller, 网卡接口地址：fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:19:02.899 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #4, 网卡接口地址：fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:19:02.900 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡展示名称：Bluetooth Device (Personal Area Network), 网卡接口地址：fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:19:02.900 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #5, 网卡接口地址：fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:19:02.900 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡展示名称：Sangfor SSL VPN CS Support System VNIC, 网卡接口地址：fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:19:02.900 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：10.5.37.63 
+[INFO] 2018-08-10 14:19:02.900 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:19:02.901 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：192.168.137.1 
+[INFO] 2018-08-10 14:19:02.901 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：10.5.41.101 
+[INFO] 2018-08-10 14:19:02.901 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 
+[INFO] 2018-08-10 14:19:17.166 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：127.0.0.1 
+[INFO] 2018-08-10 14:19:17.170 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:19:17.170 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡展示名称：Realtek PCIe GBE Family Controller, 网卡接口地址：fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:19:17.171 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #4, 网卡接口地址：fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:19:17.171 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡展示名称：Bluetooth Device (Personal Area Network), 网卡接口地址：fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:19:17.171 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #5, 网卡接口地址：fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:19:17.171 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡展示名称：Sangfor SSL VPN CS Support System VNIC, 网卡接口地址：fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:19:17.172 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：10.5.37.63 
+[INFO] 2018-08-10 14:19:17.172 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:19:17.172 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：192.168.137.1 
+[INFO] 2018-08-10 14:19:17.172 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：10.5.41.101 
+[INFO] 2018-08-10 14:19:17.172 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 
+[INFO] 2018-08-10 14:19:22.871 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：127.0.0.1 
+[INFO] 2018-08-10 14:19:22.878 [main] [com.gwg.net.Example]34 - 网卡接口名称：lo，网卡展示名称：Software Loopback Interface 1, 网卡接口地址：0:0:0:0:0:0:0:1 
+[INFO] 2018-08-10 14:19:22.878 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth0，网卡展示名称：Realtek PCIe GBE Family Controller, 网卡接口地址：fe80:0:0:0:d596:2823:4f0:cfac%eth0 
+[INFO] 2018-08-10 14:19:22.879 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan3，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #4, 网卡接口地址：fe80:0:0:0:41a3:e5b:9ef5:5fbe%wlan3 
+[INFO] 2018-08-10 14:19:22.879 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth1，网卡展示名称：Bluetooth Device (Personal Area Network), 网卡接口地址：fe80:0:0:0:c59b:920f:54fb:a47f%eth1 
+[INFO] 2018-08-10 14:19:22.879 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan4，网卡展示名称：Microsoft Wi-Fi Direct Virtual Adapter #5, 网卡接口地址：fe80:0:0:0:829:39c2:ceb8:fb01%wlan4 
+[INFO] 2018-08-10 14:19:22.879 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth2，网卡展示名称：Sangfor SSL VPN CS Support System VNIC, 网卡接口地址：fe80:0:0:0:1510:e44e:38f6:cb4f%eth2 
+[INFO] 2018-08-10 14:19:22.879 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：10.5.37.63 
+[INFO] 2018-08-10 14:19:22.880 [main] [com.gwg.net.Example]34 - 网卡接口名称：wlan5，网卡展示名称：Realtek RTL8822BE 802.11ac PCIe Adapter, 网卡接口地址：fe80:0:0:0:3c74:269a:fc3d:d535%wlan5 
+[INFO] 2018-08-10 14:19:22.880 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：192.168.137.1 
+[INFO] 2018-08-10 14:19:22.880 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：10.5.41.101 
+[INFO] 2018-08-10 14:19:22.880 [main] [com.gwg.net.Example]34 - 网卡接口名称：eth7，网卡展示名称：VMware Virtual Ethernet Adapter for VMnet8, 网卡接口地址：fe80:0:0:0:bc6d:64a1:54b6:c759%eth7 

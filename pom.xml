@@ -12,7 +12,8 @@
 		</dependencies>
 	</dependencyManagement> -->
 	<modules>
-		<module>rocketmq-namesrv</module>
-		<module>rocketmq-netty</module>
+		<module>rocketmq-namesrv-parse</module>
+		<module>rocketmq-test</module>
+		<module>rocketmq-broker-parse</module>
 	</modules>
 </project>
